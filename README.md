@@ -1,4 +1,4 @@
-**CryF1sh | Web Developer & Information Systems Student**
+**CryF1sh | Backend Developer & Information Systems Student**
 
 🎓 Final year student specializing in Information Systems and Programming.
 
