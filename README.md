@@ -14,7 +14,7 @@ Hard Skills:
     
     Relational Databases: PostgreSQL, MS SQL Server
     C#: .NET Core, .NET Framework, ASP.NET
-    Technologies: Entity Framework, LINQ, WPF
+    Technologies: Entity Framework, LINQ, WPF, MVC
     Object-Oriented Programming (OOP)
 
 Let's build something amazing together! 🚀✨
